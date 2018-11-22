@@ -1,6 +1,5 @@
 #include<stdio.h>
 #include<assert.h>
-#include"String.h"
 int My_strlen(const char *pdst)
 {
 	const char* cp = pdst;
